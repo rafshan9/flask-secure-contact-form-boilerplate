@@ -34,4 +34,9 @@ Set your specific variables:
 
 ### 3. Run the App
 ```bash
+
 python app.py
+<img width="680" height="575" alt="Screenshot 2025-12-03 175520" src="https://github.com/user-attachments/assets/7c7cad02-0ec1-4419-b942-04138586d242" />
+<img width="687" height="687" alt="Screenshot 2025-12-03 175334" src="https://github.com/user-attachments/assets/49beb056-40ad-403c-9888-85c38e9fdcd4" />
+<img width="745" height="779" alt="Screenshot 2025-12-03 175324" src="https://github.com/user-attachments/assets/e3e6e9ef-a76f-4e6b-aed1-0e402d5cc8c4" />
+
